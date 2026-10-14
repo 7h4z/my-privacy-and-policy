@@ -1,8 +1,8 @@
 # my-privacy-and-policy
 privacy and policy
-Privacy Policy for [Bot Name]
+Privacy Policy for kot mietek
 
-This Privacy Policy governs the collection, use, and sharing of personal information by [Bot Name], a Discord bot developed by [Developer Name]. By using [Bot Name], you agree to the terms of this Privacy Policy.
+This Privacy Policy governs the collection, use, and sharing of personal information by [Bot Name], a Discord bot developed by 7h4z. By using kot mietek, you agree to the terms of this Privacy Policy.
 
 Information We Collect
 
@@ -10,7 +10,7 @@ We collect information that you provide to us through your use of the bot, such 
 
 How We Use Your Information
 
-We use your information to operate and improve [Bot Name], including to provide support and respond to your requests. We may also use your information to develop new features or services, to conduct research and analytics, and to comply with legal obligations.
+We use your information to operate and improve kot mietek, including to provide support and respond to your requests. We may also use your information to develop new features or services, to conduct research and analytics, and to comply with legal obligations.
 
 Sharing Your Information
 
@@ -18,7 +18,7 @@ We do not sell or share your personal information with third parties. However, w
 
 Data Retention
 
-We retain your information for as long as necessary to provide [Bot Name]’s services or as required by law. We will delete your information upon your request or when it is no longer needed.
+We retain your information for as long as necessary to provide kot mietek’s services or as required by law. We will delete your information upon your request or when it is no longer needed.
 
 Data Security
 
@@ -26,7 +26,7 @@ We take reasonable measures to protect your information from unauthorized access
 
 Changes to this Policy
 
-We may update this Privacy Policy from time to time, and we will post the updated policy on our website. Your continued use of [Bot Name] after we make changes to this policy indicates your acceptance of the revised policy.
+We may update this Privacy Policy from time to time, and we will post the updated policy on our website. Your continued use of kot mietek after we make changes to this policy indicates your acceptance of the revised policy.
 
 Contact Us
 
@@ -34,4 +34,4 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 Effective Date
 
-This Privacy Policy is effective as of [Effective Date].
+This Privacy Policy is effective as of 7h4z . contact to me is discord 7h4z 
